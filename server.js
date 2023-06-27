@@ -1,3 +1,4 @@
+// This is going to be a simple seed
 const express = require("express");
 const app = express();
 const port = 8000;
