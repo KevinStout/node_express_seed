@@ -1,4 +1,7 @@
 // This is going to be a simple seed
+// file for our server. We will be
+// using Express to handle our
+// requests and responses.
 const express = require("express");
 const app = express();
 const port = 8000;
